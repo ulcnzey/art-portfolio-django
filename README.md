@@ -1,4 +1,4 @@
-# 🎨 StajWeb — Sanat & Portfolyo Platformu
+# 🎨 Artévo — Sanat & Portfolyo Platformu
 
 > Sanatçıların işlerini sergilemesi için tasarlanmış, içerik yönetimi
 > tamamen panel üzerinden yapılabilen dinamik bir portfolyo web sitesi.
